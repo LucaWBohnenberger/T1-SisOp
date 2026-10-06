@@ -1,0 +1,50 @@
+== Casos embutidos (sequencial)
+Ex1 - Identificacao basica (5x5): obtido=3 esperado=3 [OK]
+Ex2 - Objeto atravessando fronteiras (6x8): obtido=4 esperado=4 [OK]
+Ex3 - Encontro de quatro blocos e diagonal (8x8): obtido=5 esperado=5 [OK]
+Ex4 - Objetos irregulares em varios blocos (9x12): obtido=6 esperado=6 [OK]
+Ex5 - Matriz maior com travessia diagonal (12x12): obtido=7 esperado=7 [OK]
+== Casos embutidos (paralelo, 1 threads)
+Ex1 - Identificacao basica (5x5) [1 threads]: obtido=3 esperado=3 [OK]
+Ex2 - Objeto atravessando fronteiras (6x8) [1 threads]: obtido=4 esperado=4 [OK]
+Ex3 - Encontro de quatro blocos e diagonal (8x8) [1 threads]: obtido=5 esperado=5 [OK]
+Ex4 - Objetos irregulares em varios blocos (9x12) [1 threads]: obtido=6 esperado=6 [OK]
+Ex5 - Matriz maior com travessia diagonal (12x12) [1 threads]: obtido=7 esperado=7 [OK]
+== Casos embutidos (paralelo, 2 threads)
+Ex1 - Identificacao basica (5x5) [2 threads]: obtido=3 esperado=3 [OK]
+Ex2 - Objeto atravessando fronteiras (6x8) [2 threads]: obtido=4 esperado=4 [OK]
+Ex3 - Encontro de quatro blocos e diagonal (8x8) [2 threads]: obtido=5 esperado=5 [OK]
+Ex4 - Objetos irregulares em varios blocos (9x12) [2 threads]: obtido=6 esperado=6 [OK]
+Ex5 - Matriz maior com travessia diagonal (12x12) [2 threads]: obtido=7 esperado=7 [OK]
+== Casos embutidos (paralelo, 3 threads)
+Ex1 - Identificacao basica (5x5) [3 threads]: obtido=3 esperado=3 [OK]
+Ex2 - Objeto atravessando fronteiras (6x8) [3 threads]: obtido=4 esperado=4 [OK]
+Ex3 - Encontro de quatro blocos e diagonal (8x8) [3 threads]: obtido=5 esperado=5 [OK]
+Ex4 - Objetos irregulares em varios blocos (9x12) [3 threads]: obtido=6 esperado=6 [OK]
+Ex5 - Matriz maior com travessia diagonal (12x12) [3 threads]: obtido=7 esperado=7 [OK]
+== Casos embutidos (paralelo, 4 threads)
+Ex1 - Identificacao basica (5x5) [4 threads]: obtido=3 esperado=3 [OK]
+Ex2 - Objeto atravessando fronteiras (6x8) [4 threads]: obtido=4 esperado=4 [OK]
+Ex3 - Encontro de quatro blocos e diagonal (8x8) [4 threads]: obtido=5 esperado=5 [OK]
+Ex4 - Objetos irregulares em varios blocos (9x12) [4 threads]: obtido=6 esperado=6 [OK]
+Ex5 - Matriz maior com travessia diagonal (12x12) [4 threads]: obtido=7 esperado=7 [OK]
+== Casos embutidos (paralelo, 8 threads)
+Ex1 - Identificacao basica (5x5) [8 threads]: obtido=3 esperado=3 [OK]
+Ex2 - Objeto atravessando fronteiras (6x8) [8 threads]: obtido=4 esperado=4 [OK]
+Ex3 - Encontro de quatro blocos e diagonal (8x8) [8 threads]: obtido=5 esperado=5 [OK]
+Ex4 - Objetos irregulares em varios blocos (9x12) [8 threads]: obtido=6 esperado=6 [OK]
+Ex5 - Matriz maior com travessia diagonal (12x12) [8 threads]: obtido=7 esperado=7 [OK]
+== Arquivos de tests/ (sequencial e paralelo com 1, 2, 3, 4 e 8 threads)
+tests/obrigatorios/ex1.txt (5x5): obtido=3 esperado=3 [OK] tempo_ms=0.003
+tests/obrigatorios/ex2.txt (6x8): obtido=4 esperado=4 [OK] tempo_ms=0.006
+tests/obrigatorios/ex3.txt (8x8): obtido=5 esperado=5 [OK] tempo_ms=0.006
+tests/obrigatorios/ex4.txt (9x12): obtido=6 esperado=6 [OK] tempo_ms=0.008
+tests/obrigatorios/ex5.txt (12x12): obtido=7 esperado=7 [OK] tempo_ms=0.009
+tests/adicionais/cheia.txt (6x6): obtido=1 esperado=1 [OK] tempo_ms=0.006
+tests/adicionais/diagonais_cruzando.txt (8x8): obtido=2 esperado=2 [OK] tempo_ms=0.003
+tests/adicionais/em_u.txt (7x7): obtido=1 esperado=1 [OK] tempo_ms=0.005
+tests/adicionais/linha_unica.txt (1x12): obtido=4 esperado=4 [OK] tempo_ms=0.002
+tests/adicionais/matriz_grande.txt (2000x2000): obtido=8 esperado=8 [OK] tempo_ms=55.906
+tests/adicionais/vazia.txt (6x6): obtido=0 esperado=0 [OK] tempo_ms=0.001
+tests/adicionais/xadrez.txt (6x6): obtido=1 esperado=1 [OK] tempo_ms=0.005
+== Todos os testes passaram

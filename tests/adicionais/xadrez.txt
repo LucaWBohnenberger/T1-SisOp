@@ -1,0 +1,9 @@
+# A3 - Tabuleiro de xadrez: as celulas so se tocam pela diagonal.
+# Com conectividade 8 tudo e UM objeto (com conectividade 4 seriam 18).
+6 6 1
+1 0 1 0 1 0
+0 1 0 1 0 1
+1 0 1 0 1 0
+0 1 0 1 0 1
+1 0 1 0 1 0
+0 1 0 1 0 1

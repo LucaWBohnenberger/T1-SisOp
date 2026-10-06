@@ -1,0 +1,9 @@
+# Exemplo 2 do enunciado - Objeto atravessando fronteiras horizontais e verticais
+# cabecalho: linhas colunas objetos_esperados
+6 8 4
+0 0 0 0 0 0 1 1
+0 1 1 1 1 0 1 0
+0 0 1 1 0 0 0 0
+0 0 0 1 1 0 0 0
+0 0 0 0 1 0 0 1
+1 1 0 0 0 0 1 1

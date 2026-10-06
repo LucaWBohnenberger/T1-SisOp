@@ -1,0 +1,12 @@
+# A4 - Diagonais que trocam de faixa a cada linha + uma diagonal
+# "anti" (direita para esquerda) separada. Com 1 linha por thread,
+# toda uniao acontece numa conexao diagonal.
+8 8 2
+1 0 0 0 0 0 0 0
+0 1 0 0 0 0 0 0
+0 0 1 0 0 0 0 1
+0 0 0 1 0 0 1 0
+0 0 0 0 0 1 0 0
+0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0

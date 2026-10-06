@@ -1,0 +1,15 @@
+# Exemplo 5 do enunciado - Matriz maior com travessia diagonal entre blocos
+# cabecalho: linhas colunas objetos_esperados
+12 12 7
+1 0 0 0 0 1 1 1 1 0 1 1
+0 1 0 0 0 1 0 0 1 0 1 0
+0 0 1 0 0 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 0 0 0 0
+1 1 0 0 0 1 0 0 0 0 0 0
+1 0 0 0 0 0 1 0 0 0 0 0
+0 0 0 1 1 0 0 1 0 0 0 0
+0 0 0 1 1 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 1 0 0
+0 1 0 0 0 0 0 0 0 0 1 0
+0 1 1 0 0 0 1 0 0 0 0 1

@@ -1,7 +1,12 @@
+# ignora executaveis (arquivos sem extensao), mas mantem pastas e o Makefile
+*
+!*.*
+!*/
+!Makefile
+
 build/
 *.o
 *.obj
 *.exe
 a.out
-*
-!*.*
+__pycache__/

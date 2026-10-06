@@ -1,0 +1,8 @@
+# A1 - Matriz so com zeros: nenhum objeto
+6 6 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0

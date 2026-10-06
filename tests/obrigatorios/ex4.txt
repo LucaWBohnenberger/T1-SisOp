@@ -1,0 +1,12 @@
+# Exemplo 4 do enunciado - Objetos irregulares ocupando varios blocos
+# cabecalho: linhas colunas objetos_esperados
+9 12 6
+0 1 1 0 0 0 0 0 0 0 1 0
+0 0 1 1 1 1 0 0 0 1 1 0
+0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 1 1 0 0 0 0 0
+0 1 0 0 0 0 1 0 0 1 0 0
+0 1 1 0 0 0 0 0 1 1 0 0
+0 0 1 1 0 0 0 0 1 0 0 0
+0 0 0 1 0 0 0 1 1 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 1

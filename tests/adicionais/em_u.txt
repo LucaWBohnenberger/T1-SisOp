@@ -1,0 +1,11 @@
+# A6 - Formato de "U": as duas pernas parecem objetos diferentes em
+# todas as faixas de cima e so se juntam na ultima linha. Testa a
+# uniao de rotulos que ja tinham sido unidos a outros (union-find).
+7 7 1
+1 0 0 0 0 0 1
+1 0 0 0 0 0 1
+1 0 0 0 0 0 1
+1 0 0 0 0 0 1
+1 0 0 0 0 0 1
+1 0 0 0 0 0 1
+1 1 1 1 1 1 1

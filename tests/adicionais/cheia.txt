@@ -1,0 +1,8 @@
+# A2 - Matriz so com uns: um unico objeto ocupando todas as faixas
+6 6 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1

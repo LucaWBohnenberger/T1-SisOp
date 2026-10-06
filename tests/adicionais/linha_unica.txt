@@ -1,0 +1,4 @@
+# A5 - Uma unica linha (mais threads que linhas: o programa usa 1 thread)
+# e valores sem separador.
+1 12 4
+110011100101

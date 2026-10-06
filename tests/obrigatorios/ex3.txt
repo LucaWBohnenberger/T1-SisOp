@@ -1,0 +1,11 @@
+# Exemplo 3 do enunciado - Encontro de quatro blocos e conectividade diagonal
+# cabecalho: linhas colunas objetos_esperados
+8 8 5
+1 1 0 0 0 0 0 0
+1 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 0
+0 0 0 1 1 0 1 0
+0 0 0 1 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 1
+0 0 1 0 0 0 1 1
