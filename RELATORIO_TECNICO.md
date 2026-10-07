@@ -3,23 +3,28 @@
 > **Disciplina:** Sistemas Operacionais - 2026/II  
 > **Professor:** Prof. Filipo Novo Mór  
 > **Instituição:** Pontifícia Universidade Católica do Rio Grande do Sul - Escola Politécnica  
-> **Repositório:** [URL pública do repositório](https://github.com/LucaWBohnenberger/T1-SisOp) <!-- [PREENCHER] -->  
+> **Repositório:** [URL pública do repositório](https://github.com/LucaWBohnenberger/T1-SisOp)
 > **Versão do relatório:** 1.0  
 > **Data:** 06/10/2026
+
+
+## **LINK DO VIDEO:**
+
+
 
 ## Identificação
 
 | Campo | Informação |
 |---|---|
 | Integrante 1 | Luca Wolffenbuttel Bohnenberger |
-| Matrícula do integrante 1 | [PREENCHER] |
+| Matrícula do integrante 1 | [24102432] |
 | Integrante 2 | Louise Zanol Northfleet |
-| Matrícula do integrante 2 | [PREENCHER] |
+| Matrícula do integrante 2 | [24106699] |
 | Modalidade | Dupla |
-| Turma | [PREENCHER] |
+| Turma | [330] |
 | Estratégia paralela | Pthreads |
 | Plataforma testada | Linux (Ubuntu 24.04.5 LTS) |
-| Commit avaliado | [`HASH_DO_COMMIT`] <!-- [PREENCHER] após o commit final --> |
+| Commit avaliado | 12e31b01512b2f5cc154b2f6cd0f750e3eeb12c2
 
 ## Resumo
 
