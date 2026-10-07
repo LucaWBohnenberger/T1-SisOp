@@ -8,7 +8,7 @@
 > **Data:** 06/10/2026
 
 
-## **LINK DO VIDEO:**
+## **LINK DO VIDEO:** https://youtu.be/Z3cs-A-utiY?is=qtZIgm_mxpZH7i2W
 
 
 
