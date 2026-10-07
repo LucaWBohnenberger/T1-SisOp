@@ -24,7 +24,7 @@
 | Turma | [330] |
 | Estratégia paralela | Pthreads |
 | Plataforma testada | Linux (Ubuntu 24.04.5 LTS) |
-| Commit avaliado | 12e31b01512b2f5cc154b2f6cd0f750e3eeb12c2
+| Commit avaliado | 289aaac8c494dc3f0a22c4c02971a122334818da
 
 ## Resumo
 
